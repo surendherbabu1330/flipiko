@@ -1,0 +1,10 @@
+[
+  { "id": "p1", "title": "Wireless Headphones", "category": "electronics", "price": 2499, "image": "https://via.placeholder.com/300?text=Headphones", "offer": true },
+  { "id": "p2", "title": "Smartphone X", "category": "mobiles", "price": 19999, "image": "https://via.placeholder.com/300?text=Mobile+X", "offer": false },
+  { "id": "p3", "title": "Men T-Shirt", "category": "men", "price": 499, "image": "https://via.placeholder.com/300?text=Men+T-Shirt", "offer": true },
+  { "id": "p4", "title": "Women Dress", "category": "women", "price": 899, "image": "https://via.placeholder.com/300?text=Women+Dress", "offer": false },
+  { "id": "p5", "title": "Running Shoes", "category": "shoes", "price": 1299, "image": "https://via.placeholder.com/300?text=Shoes", "offer": true },
+  { "id": "p6", "title": "Bluetooth Speaker", "category": "electronics", "price": 999, "image": "https://via.placeholder.com/300?text=Speaker", "offer": false },
+  { "id": "p7", "title": "Laptop Pro", "category": "electronics", "price": 55999, "image": "https://via.placeholder.com/300?text=Laptop+Pro", "offer": false },
+  { "id": "p8", "title": "Casual Shirt", "category": "men", "price": 699, "image": "https://via.placeholder.com/300?text=Casual+Shirt", "offer": false }
+]
